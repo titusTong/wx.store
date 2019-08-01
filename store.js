@@ -1,4 +1,10 @@
 /**
+ * @author xiaoheng
+ * @time 2019/8/1
+ * @github https://github.com/xiaoheng21
+ * @tip 还在找工作，有机会望告知，坐标北京
+ */
+/**
  * 状态管理类
  * @constructor 构造函数
  * @_data  内部数据，用来保存页面数据
